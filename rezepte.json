@@ -1,0 +1,617 @@
+{
+ "liste": [
+  {
+   "c": "schwein",
+   "e": "🍲",
+   "id": "w2026-45-hacklauchsuppe",
+   "ing": [
+    [
+     "Gemischtes Hack",
+     100
+    ],
+    [
+     "Lauch",
+     0.5
+    ],
+    [
+     "Kartoffeln",
+     150
+    ],
+    [
+     "Zwiebel",
+     0.5
+    ],
+    [
+     "Gemüsebrühe",
+     1
+    ],
+    [
+     "Senf",
+     0.5
+    ],
+    [
+     "Öl",
+     0.5
+    ],
+    [
+     "Salz",
+     0.25
+    ],
+    [
+     "Pfeffer",
+     0.25
+    ],
+    [
+     "Knoblauch",
+     0.25
+    ],
+    [
+     "Majoran",
+     0.25
+    ],
+    [
+     "Paprikapulver",
+     0.5
+    ],
+    [
+     "Muskat",
+     0.1
+    ],
+    [
+     "Lorbeerblatt",
+     0.5
+    ],
+    [
+     "Kümmel",
+     0.1
+    ]
+   ],
+   "k": "Deutsch",
+   "n": "Hack-Lauch-Suppe mit Kartoffeln",
+   "s": [
+    "herbst",
+    "winter"
+   ],
+   "st": [
+    "Lauch längs halbieren, gründlich waschen und in Ringe schneiden. Kartoffeln schälen und in 1,5 cm große Würfel schneiden, Zwiebel würfeln, Knoblauch fein hacken.",
+    "Öl in einem großen Topf bei mittlerer bis hoher Hitze erhitzen. Hack hineingeben, zerdrücken und 6 bis 8 Minuten braten, bis es krümelig und vollständig durchgebraten ist, also nirgends mehr rosa.",
+    "Zwiebel und Knoblauch 2 Minuten mitbraten. Paprikapulver und Kümmel einrühren und 30 Sekunden mitrösten.",
+    "Lauch und Kartoffeln zugeben, mit 350 ml Wasser pro Person aufgießen, Brühe, Lorbeerblatt und Majoran zugeben und aufkochen.",
+    "Zugedeckt bei kleiner Hitze 20 Minuten köcheln lassen, bis die Kartoffeln weich sind.",
+    "Lorbeerblatt herausnehmen. Mit Senf, Muskat, Salz und Pfeffer kräftig abschmecken."
+   ],
+   "t": 35
+  },
+  {
+   "af": "Kartoffeln und Möhren bei 200 °C 12 Minuten vorgaren, Hähnchen, Apfel und Zwiebel zugeben und weitere 12 Minuten garen, bis das Hähnchen innen nicht mehr rosa ist.",
+   "c": "gefluegel",
+   "e": "🍗",
+   "id": "w2026-45-haehnchenblech",
+   "ing": [
+    [
+     "Hähnchenbrust",
+     150
+    ],
+    [
+     "Kartoffeln",
+     250
+    ],
+    [
+     "Möhren",
+     100
+    ],
+    [
+     "Äpfel",
+     0.5
+    ],
+    [
+     "Zwiebel",
+     0.5
+    ],
+    [
+     "Paprikapulver",
+     1
+    ],
+    [
+     "Olivenöl",
+     1.5
+    ],
+    [
+     "Salz",
+     0.25
+    ],
+    [
+     "Pfeffer",
+     0.25
+    ],
+    [
+     "Knoblauch",
+     0.25
+    ],
+    [
+     "Rosmarin",
+     0.5
+    ],
+    [
+     "Thymian",
+     0.25
+    ],
+    [
+     "Zimt",
+     0.05
+    ],
+    [
+     "Zitrone",
+     0.25
+    ]
+   ],
+   "k": "International",
+   "kid": 1,
+   "n": "Hähnchen-Ofenblech mit Kartoffeln, Möhren und Äpfeln",
+   "s": [
+    "herbst"
+   ],
+   "st": [
+    "Ofen auf 200 °C Ober- und Unterhitze vorheizen. Kartoffeln waschen und in Spalten schneiden, Möhren schälen und in Stifte schneiden.",
+    "Kartoffeln und Möhren auf einem Blech mit der Hälfte des Öls, Paprikapulver, Rosmarin und Salz mischen und 20 Minuten backen.",
+    "Währenddessen Hähnchen in große Stücke schneiden, Apfel entkernen und in Spalten schneiden, Zwiebel in Spalten schneiden, Knoblauch fein hacken.",
+    "Hähnchen, Apfel und Zwiebel mit dem restlichen Öl, Knoblauch, Thymian, einer Prise Zimt, Salz, Pfeffer und etwas Zitronensaft mischen.",
+    "Alles zu den Kartoffeln aufs Blech geben, einmal durchmischen und weitere 20 Minuten backen.",
+    "Ein Hähnchenstück aufschneiden: Es muss innen weiß und der Saft klar sein, nicht rosa. Vor dem Servieren mit etwas Zitronensaft beträufeln."
+   ],
+   "t": 45
+  },
+  {
+   "c": "fisch",
+   "e": "🐟",
+   "id": "w2026-45-lachsspaghetti",
+   "ing": [
+    [
+     "Spaghetti",
+     100
+    ],
+    [
+     "Lachsfilet",
+     100
+    ],
+    [
+     "Tomaten",
+     100
+    ],
+    [
+     "Knoblauch",
+     0.5
+    ],
+    [
+     "Zitrone",
+     0.25
+    ],
+    [
+     "Petersilie",
+     0.25
+    ],
+    [
+     "Olivenöl",
+     1.5
+    ],
+    [
+     "Salz",
+     0.25
+    ],
+    [
+     "Pfeffer",
+     0.25
+    ],
+    [
+     "Chiliflocken",
+     0.1
+    ],
+    [
+     "Dill",
+     0.25
+    ]
+   ],
+   "k": "Italienisch",
+   "n": "Spaghetti mit Lachs, Zitrone und Petersilie",
+   "st": [
+    "Reichlich Salzwasser aufkochen und die Spaghetti nach Packungsangabe garen. Vor dem Abgießen eine Tasse Nudelwasser abnehmen.",
+    "Lachs in 2 cm große Würfel schneiden und leicht salzen. Tomaten würfeln, Knoblauch und Petersilie fein hacken.",
+    "Olivenöl in einer großen Pfanne bei mittlerer Hitze erhitzen. Knoblauch und Chiliflocken 30 Sekunden andünsten, der Knoblauch darf nicht braun werden.",
+    "Lachs zugeben und 3 bis 4 Minuten vorsichtig braten, bis er innen nicht mehr glasig ist und sich leicht zerteilen lässt.",
+    "Tomaten und Dill zugeben und 2 Minuten mitschmoren.",
+    "Spaghetti mit einem Schuss Nudelwasser in die Pfanne geben und behutsam mischen. Mit Zitronensaft, Petersilie, Salz und Pfeffer abschmecken."
+   ],
+   "t": 20
+  },
+  {
+   "c": "vegetarisch",
+   "e": "🧀",
+   "id": "w2026-45-kartoffellauchgratin",
+   "ing": [
+    [
+     "Kartoffeln",
+     250
+    ],
+    [
+     "Lauch",
+     0.5
+    ],
+    [
+     "Sahne",
+     75
+    ],
+    [
+     "Milch",
+     50
+    ],
+    [
+     "Reibekäse",
+     40
+    ],
+    [
+     "Butter",
+     5
+    ],
+    [
+     "Salz",
+     0.25
+    ],
+    [
+     "Pfeffer",
+     0.25
+    ],
+    [
+     "Knoblauch",
+     0.25
+    ],
+    [
+     "Muskat",
+     0.1
+    ],
+    [
+     "Thymian",
+     0.25
+    ],
+    [
+     "Paprikapulver",
+     0.25
+    ]
+   ],
+   "k": "Deutsch",
+   "kid": 1,
+   "n": "Kartoffel-Lauch-Gratin mit Käse",
+   "s": [
+    "herbst",
+    "winter"
+   ],
+   "st": [
+    "Ofen auf 180 °C Ober- und Unterhitze vorheizen und eine Auflaufform mit Butter fetten.",
+    "Kartoffeln schälen und in 2 bis 3 mm dünne Scheiben hobeln. Lauch längs halbieren, gründlich waschen und in feine Ringe schneiden. Knoblauch fein hacken.",
+    "Sahne und Milch mit Knoblauch, Thymian, Muskat, Salz und Pfeffer verrühren. Kräftig würzen, die Kartoffeln nehmen viel Salz auf.",
+    "Kartoffeln und Lauch abwechselnd in die Form schichten.",
+    "Die Sahnemilch gleichmäßig darübergießen, mit Käse und Paprikapulver bestreuen.",
+    "Etwa 45 Minuten backen, bis die Oberfläche goldbraun ist. Garprobe: Ein Messer muss ohne Widerstand durch die Kartoffeln gleiten. Vor dem Servieren 5 Minuten ruhen lassen."
+   ],
+   "t": 60
+  },
+  {
+   "af": "Kürbiswürfel und Gnocchi mit Öl bei 190 °C etwa 12 Minuten garen, zwischendurch schütteln.",
+   "c": "vegetarisch",
+   "e": "🎃",
+   "id": "w2026-45-gnocchikuerbis",
+   "ing": [
+    [
+     "Gnocchi",
+     200
+    ],
+    [
+     "Hokkaido-Kürbis",
+     150
+    ],
+    [
+     "Spinat (TK)",
+     75
+    ],
+    [
+     "Mozzarella",
+     50
+    ],
+    [
+     "Knoblauch",
+     0.25
+    ],
+    [
+     "Olivenöl",
+     1.5
+    ],
+    [
+     "Salz",
+     0.25
+    ],
+    [
+     "Pfeffer",
+     0.25
+    ],
+    [
+     "Muskat",
+     0.1
+    ],
+    [
+     "Chiliflocken",
+     0.1
+    ],
+    [
+     "Thymian",
+     0.25
+    ],
+    [
+     "Basilikum",
+     0.25
+    ]
+   ],
+   "k": "Italienisch",
+   "n": "Gnocchi mit Kürbis, Spinat und Mozzarella",
+   "s": [
+    "herbst"
+   ],
+   "st": [
+    "Kürbis halbieren, Kerne herauskratzen und in 1,5 cm große Würfel schneiden, Hokkaido muss nicht geschält werden. Knoblauch fein hacken. Spinat auftauen lassen und gut ausdrücken.",
+    "Die Hälfte des Olivenöls in einer großen Pfanne bei mittlerer Hitze erhitzen. Kürbis mit Thymian und etwas Salz 8 Minuten braten, bis er weich und leicht gebräunt ist. Herausnehmen.",
+    "Restliches Öl in die Pfanne geben. Gnocchi direkt aus der Packung 6 Minuten goldbraun braten, nur alle 2 Minuten wenden.",
+    "Kürbis, Knoblauch, Chiliflocken und Spinat zugeben und 2 Minuten mitbraten. Mit Muskat, Basilikum, Salz und Pfeffer würzen.",
+    "Mozzarella darüberzupfen, Deckel auflegen und bei kleiner Hitze 2 Minuten schmelzen lassen."
+   ],
+   "t": 25
+  },
+  {
+   "c": "vegan",
+   "e": "🍜",
+   "id": "w2026-45-kokosspaghetti",
+   "ing": [
+    [
+     "Spaghetti",
+     100
+    ],
+    [
+     "Brokkoli",
+     150
+    ],
+    [
+     "Möhren",
+     60
+    ],
+    [
+     "Kokosmilch",
+     100
+    ],
+    [
+     "Knoblauch",
+     0.25
+    ],
+    [
+     "Currypulver",
+     1
+    ],
+    [
+     "Sojasauce",
+     1
+    ],
+    [
+     "Öl",
+     1
+    ],
+    [
+     "Salz",
+     0.25
+    ],
+    [
+     "Ingwer (gemahlen)",
+     0.25
+    ],
+    [
+     "Kurkuma",
+     0.25
+    ],
+    [
+     "Chiliflocken",
+     0.1
+    ],
+    [
+     "Zitrone",
+     0.25
+    ]
+   ],
+   "k": "Asiatisch",
+   "n": "Asia-Spaghetti mit Brokkoli in Kokos-Curry-Sauce",
+   "st": [
+    "Reichlich Salzwasser aufkochen. Brokkoli in kleine Röschen teilen, Möhren schälen und in dünne Streifen schneiden, Knoblauch fein hacken.",
+    "Spaghetti nach Packungsangabe garen, die letzten 4 Minuten den Brokkoli mitgaren.",
+    "Währenddessen Öl in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Möhren 3 Minuten braten.",
+    "Knoblauch, Currypulver, Kurkuma, Ingwer und Chiliflocken zugeben und 30 Sekunden mitrösten, bis es duftet.",
+    "Kokosmilch und Sojasauce zugeben, aufkochen und 3 Minuten köcheln, bis die Sauce leicht dicklich ist.",
+    "Nudeln und Brokkoli abgießen, in der Sauce schwenken und mit Zitronensaft und Salz abschmecken."
+   ],
+   "t": 20
+  },
+  {
+   "c": "vegan",
+   "e": "🥘",
+   "id": "w2026-45-kuerbispilaw",
+   "ing": [
+    [
+     "Bulgur",
+     75
+    ],
+    [
+     "Hokkaido-Kürbis",
+     150
+    ],
+    [
+     "Kichererbsen (Dose)",
+     100
+    ],
+    [
+     "Zwiebel",
+     0.5
+    ],
+    [
+     "Tomatenmark",
+     1
+    ],
+    [
+     "Kreuzkümmel",
+     0.5
+    ],
+    [
+     "Zimt",
+     0.25
+    ],
+    [
+     "Gemüsebrühe",
+     1
+    ],
+    [
+     "Petersilie",
+     0.25
+    ],
+    [
+     "Olivenöl",
+     1
+    ],
+    [
+     "Salz",
+     0.25
+    ],
+    [
+     "Knoblauch",
+     0.25
+    ],
+    [
+     "Paprikapulver",
+     0.5
+    ],
+    [
+     "Koriander",
+     0.25
+    ],
+    [
+     "Chiliflocken",
+     0.1
+    ],
+    [
+     "Zitrone",
+     0.25
+    ],
+    [
+     "Pfeffer",
+     0.25
+    ]
+   ],
+   "k": "Orientalisch",
+   "n": "Bulgur-Pilaw mit Kürbis und Kichererbsen",
+   "s": [
+    "herbst"
+   ],
+   "st": [
+    "Kürbis entkernen und in 1,5 cm große Würfel schneiden, Hokkaido muss nicht geschält werden. Zwiebel würfeln, Knoblauch fein hacken. Kichererbsen abspülen und abtropfen lassen.",
+    "Olivenöl in einem Topf bei mittlerer Hitze erhitzen. Kürbis und Zwiebel 5 Minuten anbraten.",
+    "Knoblauch, Tomatenmark, Kreuzkümmel, Koriander, Paprikapulver, Zimt und Chiliflocken einrühren und 30 Sekunden mitrösten.",
+    "Bulgur und Kichererbsen zugeben, mit 175 ml Wasser pro Person aufgießen, Brühe einrühren und aufkochen.",
+    "Zugedeckt bei kleinster Hitze 15 Minuten garen, ohne umzurühren. Vom Herd nehmen und zugedeckt 5 Minuten ziehen lassen.",
+    "Mit einer Gabel auflockern. Petersilie hacken und unterheben, mit Zitronensaft, Salz und Pfeffer abschmecken."
+   ],
+   "t": 35
+  },
+  {
+   "c": "vegan",
+   "e": "🥔",
+   "id": "w2026-45-kartoffelgulasch",
+   "ing": [
+    [
+     "Kartoffeln",
+     250
+    ],
+    [
+     "Kidneybohnen (Dose)",
+     80
+    ],
+    [
+     "Paprika",
+     0.5
+    ],
+    [
+     "Zwiebel",
+     0.5
+    ],
+    [
+     "Möhren",
+     50
+    ],
+    [
+     "Tomatenmark",
+     1
+    ],
+    [
+     "Paprikapulver",
+     1.5
+    ],
+    [
+     "Gemüsebrühe",
+     1
+    ],
+    [
+     "Öl",
+     1
+    ],
+    [
+     "Salz",
+     0.25
+    ],
+    [
+     "Knoblauch",
+     0.25
+    ],
+    [
+     "Kümmel",
+     0.25
+    ],
+    [
+     "Majoran",
+     0.25
+    ],
+    [
+     "Rauchpaprika",
+     0.25
+    ],
+    [
+     "Lorbeerblatt",
+     0.5
+    ],
+    [
+     "Pfeffer",
+     0.25
+    ],
+    [
+     "Essig",
+     0.5
+    ]
+   ],
+   "k": "Deutsch",
+   "n": "Kartoffelgulasch mit Kidneybohnen",
+   "s": [
+    "herbst",
+    "winter"
+   ],
+   "st": [
+    "Kartoffeln und Möhren schälen und in 1,5 cm große Würfel schneiden. Paprika entkernen und würfeln, Zwiebel würfeln, Knoblauch fein hacken.",
+    "Öl in einem Topf bei mittlerer Hitze erhitzen. Zwiebel 4 Minuten glasig dünsten, Knoblauch 30 Sekunden mitdünsten.",
+    "Tomatenmark, Paprikapulver, Rauchpaprika und Kümmel einrühren und nur 30 Sekunden mitrösten, sonst wird das Paprikapulver bitter.",
+    "Kartoffeln, Möhren und Paprika zugeben, mit 250 ml Wasser pro Person aufgießen, Brühe, Lorbeerblatt und Majoran zugeben und aufkochen.",
+    "Zugedeckt bei kleiner Hitze 20 Minuten köcheln, bis die Kartoffeln weich sind.",
+    "Bohnen abspülen, zugeben und 5 Minuten mitziehen lassen. Einige Kartoffelstücke am Topfrand zerdrücken, das macht das Gulasch sämiger.",
+    "Lorbeerblatt herausnehmen. Mit Salz, Pfeffer und einem Schuss Essig abschmecken."
+   ],
+   "t": 40
+  }
+ ]
+}
