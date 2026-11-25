@@ -1,901 +1,46 @@
 {
- "stand": "2026-11-16T19:00:00+01:00",
+ "stand": "2026-11-25T10:00:00+01:00",
  "quellen": [
-  {
-   "market": "Netto Marken-Discount",
-   "ok": true,
-   "anzahl": 19
-  },
-  {
-   "market": "Rewe",
-   "ok": true,
-   "anzahl": 18
-  },
-  {
-   "market": "Edeka",
-   "ok": true,
-   "anzahl": 6
-  },
-  {
-   "market": "Lidl",
-   "ok": true,
-   "anzahl": 10
-  },
-  {
-   "market": "Kaufland",
-   "ok": true,
-   "anzahl": 13
-  },
   {
    "market": "Aldi Süd",
    "ok": true,
-   "anzahl": 12
+   "anzahl": 44
   },
   {
    "market": "Penny",
+   "ok": true,
+   "anzahl": 122
+  },
+  {
+   "market": "Kaufland",
+   "ok": true,
+   "anzahl": 27
+  },
+  {
+   "market": "Netto Marken-Discount",
+   "ok": true,
+   "anzahl": 57
+  },
+  {
+   "market": "Rewe",
    "ok": false,
-   "anzahl": 0
+   "anzahl": 0,
+   "grund": "nicht abgerufen"
+  },
+  {
+   "market": "Edeka",
+   "ok": false,
+   "anzahl": 0,
+   "grund": "nicht abgerufen"
+  },
+  {
+   "market": "Lidl",
+   "ok": false,
+   "anzahl": 0,
+   "grund": "nicht abgerufen"
   }
  ],
  "liste": [
-  {
-   "name": "Rinder-Hackfleisch XXL",
-   "price": 6.99,
-   "market": "Netto Marken-Discount",
-   "amount": 800,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Rinderhack",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Paprika rot",
-   "price": 1.69,
-   "market": "Netto Marken-Discount",
-   "amount": 500,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Paprika",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Kanzi Apfel",
-   "price": 2.49,
-   "market": "Netto Marken-Discount",
-   "amount": 1000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Äpfel",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Champignons weiß",
-   "price": 1.69,
-   "market": "Netto Marken-Discount",
-   "amount": 400,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Chiquita Avocado",
-   "price": 0.99,
-   "market": "Netto Marken-Discount",
-   "amount": 1,
-   "unit": "Stk",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Speisekartoffeln festkochend",
-   "price": 2.29,
-   "market": "Netto Marken-Discount",
-   "amount": 2000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Kartoffeln",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Snackradieschen",
-   "price": 0.66,
-   "market": "Netto Marken-Discount",
-   "amount": 200,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Auberginen",
-   "price": 0.79,
-   "market": "Netto Marken-Discount",
-   "amount": 1,
-   "unit": "Stk",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Bio Möhren",
-   "price": 1.29,
-   "market": "Netto Marken-Discount",
-   "amount": 1000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Möhren",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Suppengemüse",
-   "price": 1.11,
-   "market": "Netto Marken-Discount",
-   "amount": 500,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Tomaten",
-   "price": 1.49,
-   "market": "Netto Marken-Discount",
-   "amount": 500,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Tomaten",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Eisbergsalat",
-   "price": 1.11,
-   "market": "Netto Marken-Discount",
-   "amount": 1,
-   "unit": "Stk",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Salat",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Mango",
-   "price": 1,
-   "market": "Netto Marken-Discount",
-   "amount": 1,
-   "unit": "Stk",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Hähnchen-Geschnetzeltes natur",
-   "price": 3.79,
-   "market": "Netto Marken-Discount",
-   "amount": 400,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Hähnchen-Oberkeulensteaks",
-   "price": 2.99,
-   "market": "Netto Marken-Discount",
-   "amount": 400,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Beinscheiben vom Rind",
-   "price": 6.99,
-   "market": "Netto Marken-Discount",
-   "amount": 700,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Schweine-Schnitzel",
-   "price": 3.49,
-   "market": "Netto Marken-Discount",
-   "amount": 500,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Schweineschnitzel",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Schweine-Schulterbraten",
-   "price": 4.49,
-   "market": "Netto Marken-Discount",
-   "amount": 1000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Gulasch vom Rind",
-   "price": 6.79,
-   "market": "Netto Marken-Discount",
-   "amount": 500,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Rindergulasch",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Hackfleisch gemischt",
-   "price": 2.49,
-   "market": "Rewe",
-   "amount": 250,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Gemischtes Hack",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Hähnchen-Innenbrustfilet",
-   "price": 3.99,
-   "market": "Rewe",
-   "amount": 350,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Hähnchenbrust",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Rinderbrust ohne Knochen",
-   "price": 17.9,
-   "market": "Rewe",
-   "amount": 1000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Schweinebratwurst fein",
-   "price": 2.22,
-   "market": "Rewe",
-   "amount": 200,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Hähnchen-Flügel",
-   "price": 5.49,
-   "market": "Rewe",
-   "amount": 1000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Puten-Medaillons",
-   "price": 5.69,
-   "market": "Rewe",
-   "amount": 400,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Puten-Geschnetzeltes",
-   "price": 4.99,
-   "market": "Rewe",
-   "amount": 400,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Bio Rinder-Hackfleisch",
-   "price": 4.99,
-   "market": "Rewe",
-   "amount": 250,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Rinderhack",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Puten-Schnitzel",
-   "price": 8.99,
-   "market": "Rewe",
-   "amount": 800,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Freiland-Hähnchen",
-   "price": 7.99,
-   "market": "Rewe",
-   "amount": 1000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Grünkohl",
-   "price": 1.79,
-   "market": "Rewe",
-   "amount": 500,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Chicorée",
-   "price": 1.59,
-   "market": "Rewe",
-   "amount": 500,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Wildkräuter Salat",
-   "price": 1.29,
-   "market": "Rewe",
-   "amount": 125,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Bio Schalotten",
-   "price": 1.19,
-   "market": "Rewe",
-   "amount": 200,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Bio Porree",
-   "price": 1.99,
-   "market": "Rewe",
-   "amount": 400,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Lauch",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Bio Speisekartoffeln Drillinge",
-   "price": 1.69,
-   "market": "Rewe",
-   "amount": 650,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Kartoffeln",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Radieschen",
-   "price": 0.55,
-   "market": "Rewe",
-   "amount": 1,
-   "unit": "Stk",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Aubergine",
-   "price": 0.69,
-   "market": "Rewe",
-   "amount": 1,
-   "unit": "Stk",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Hähnchenbrustfilet natur (je 100 g)",
-   "price": 0.99,
-   "market": "Edeka",
-   "amount": 100,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Hähnchenbrust",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Schweinebraten aus der Schulter (je 100 g)",
-   "price": 0.69,
-   "market": "Edeka",
-   "amount": 100,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Rinderbrust oder Rinderwade (je 100 g)",
-   "price": 1.59,
-   "market": "Edeka",
-   "amount": 100,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Grillbratwurst vom Schwein",
-   "price": 4.79,
-   "market": "Edeka",
-   "amount": 500,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Hackfleisch gemischt XXL",
-   "price": 6.99,
-   "market": "Edeka",
-   "amount": 800,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Gemischtes Hack",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Rinderbeinscheiben (Kilopreis)",
-   "price": 12.58,
-   "market": "Edeka",
-   "amount": 1000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Hähnchenbrustfilets XXL",
-   "price": 12.99,
-   "market": "Lidl",
-   "amount": 1500,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Hähnchenbrust",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Hähnchen-Oberkeulen XXL",
-   "price": 6.99,
-   "market": "Lidl",
-   "amount": 2000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Rinder-Hackfleisch XXL",
-   "price": 9.49,
-   "market": "Lidl",
-   "amount": 1000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Rinderhack",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Lachsforellenfilet (Kilopreis)",
-   "price": 13.99,
-   "market": "Lidl",
-   "amount": 1000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Schweine-Minutensteaks",
-   "price": 2.99,
-   "market": "Lidl",
-   "amount": 400,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Miesmuscheln",
-   "price": 2.99,
-   "market": "Lidl",
-   "amount": 1000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Maispoularde (Kilopreis)",
-   "price": 4.29,
-   "market": "Lidl",
-   "amount": 1000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Schweine-Nackenbraten (Kilopreis)",
-   "price": 4.99,
-   "market": "Lidl",
-   "amount": 1000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Deutsche Möhren",
-   "price": 1.49,
-   "market": "Lidl",
-   "amount": 3000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Möhren",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Gurken",
-   "price": 0.75,
-   "market": "Lidl",
-   "amount": 1,
-   "unit": "Stk",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Gurke",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Hackfleisch gemischt",
-   "price": 3.49,
-   "market": "Kaufland",
-   "amount": 500,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Gemischtes Hack",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Gulasch gemischt",
-   "price": 4.89,
-   "market": "Kaufland",
-   "amount": 500,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Hähnchen-Ministeaks aus dem Brustfilet",
-   "price": 3.79,
-   "market": "Kaufland",
-   "amount": 400,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Hähnchenbrust",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Hähnchenbrustfilet-Teilstücke",
-   "price": 5.19,
-   "market": "Kaufland",
-   "amount": 600,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Hähnchenbrust",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Puten-Oberkeule",
-   "price": 6.49,
-   "market": "Kaufland",
-   "amount": 1250,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Möhren",
-   "price": 0.99,
-   "market": "Kaufland",
-   "amount": 1000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Möhren",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Lauchzwiebeln",
-   "price": 0.49,
-   "market": "Kaufland",
-   "amount": 1,
-   "unit": "Stk",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Tafeläpfel rot",
-   "price": 2.49,
-   "market": "Kaufland",
-   "amount": 1000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Äpfel",
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Rosenkohl",
-   "price": 1.29,
-   "market": "Kaufland",
-   "amount": 750,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Rote Bete",
-   "price": 0.99,
-   "market": "Kaufland",
-   "amount": 1000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Sellerie",
-   "price": 0.99,
-   "market": "Kaufland",
-   "amount": 1000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Petersilienwurzeln oder Pastinaken",
-   "price": 1.49,
-   "market": "Kaufland",
-   "amount": 400,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Dorade Royal",
-   "price": 4.99,
-   "market": "Kaufland",
-   "amount": 450,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "prospekt"
-  },
-  {
-   "name": "Brokkoli",
-   "price": 0.95,
-   "market": "Aldi Süd",
-   "amount": 500,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Brokkoli",
-   "quelle": "website"
-  },
-  {
-   "name": "Speisekartoffeln festkochend",
-   "price": 2.29,
-   "market": "Aldi Süd",
-   "amount": 2500,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Kartoffeln",
-   "quelle": "website"
-  },
-  {
-   "name": "Champignons weiß",
-   "price": 1.39,
-   "market": "Aldi Süd",
-   "amount": 400,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "website"
-  },
-  {
-   "name": "Bio Orangen",
-   "price": 1.99,
-   "market": "Aldi Süd",
-   "amount": 1000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "website"
-  },
-  {
-   "name": "Speisezwiebeln rot",
-   "price": 1.25,
-   "market": "Aldi Süd",
-   "amount": 1000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Zwiebel",
-   "quelle": "website"
-  },
-  {
-   "name": "Staudensellerie",
-   "price": 1.11,
-   "market": "Aldi Süd",
-   "amount": 1,
-   "unit": "Stk",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "website"
-  },
-  {
-   "name": "Kaki",
-   "price": 0.49,
-   "market": "Aldi Süd",
-   "amount": 1,
-   "unit": "Stk",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "website"
-  },
-  {
-   "name": "Porree",
-   "price": 0.45,
-   "market": "Aldi Süd",
-   "amount": 1,
-   "unit": "Stk",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Lauch",
-   "quelle": "website"
-  },
-  {
-   "name": "Zucchini",
-   "price": 1.29,
-   "market": "Aldi Süd",
-   "amount": 1000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Zucchini",
-   "quelle": "website"
-  },
-  {
-   "name": "Bananen",
-   "price": 0.99,
-   "market": "Aldi Süd",
-   "amount": 1000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": "Bananen",
-   "quelle": "website"
-  },
-  {
-   "name": "Fenchel",
-   "price": 1.99,
-   "market": "Aldi Süd",
-   "amount": 1000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "website"
-  },
-  {
-   "name": "Clementinen",
-   "price": 3.33,
-   "market": "Aldi Süd",
-   "amount": 2000,
-   "unit": "g",
-   "von": "2026-11-16",
-   "bis": "2026-11-21",
-   "zutat": null,
-   "quelle": "website"
-  },
   {
    "name": "Jacobs Barista Kaffee Crema",
    "price": 12.99,
@@ -2720,6 +1865,846 @@
    "von": "2026-11-27",
    "bis": "2026-11-28",
    "zutat": null,
+   "quelle": "website"
+  },
+  {
+   "name": "Weihenstephan Butter oder Die Streichzarte",
+   "price": 1.29,
+   "market": "Kaufland",
+   "amount": 250,
+   "unit": "g",
+   "von": "2026-11-25",
+   "bis": "2026-11-25",
+   "quelle": "website"
+  },
+  {
+   "name": "Porree, lose",
+   "price": 1.49,
+   "market": "Kaufland",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-25",
+   "bis": "2026-11-25",
+   "quelle": "website"
+  },
+  {
+   "name": "Span. Zitronen",
+   "price": 0.99,
+   "market": "Kaufland",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-25",
+   "bis": "2026-11-25",
+   "quelle": "website"
+  },
+  {
+   "name": "Bio-Feldsalat",
+   "price": 0.99,
+   "market": "Kaufland",
+   "amount": 100,
+   "unit": "g",
+   "von": "2026-11-25",
+   "bis": "2026-11-25",
+   "quelle": "website"
+  },
+  {
+   "name": "Müller Kefir oder Ayran",
+   "price": 0.89,
+   "market": "Kaufland",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-25",
+   "bis": "2026-11-25",
+   "quelle": "website"
+  },
+  {
+   "name": "Span. Clementinen",
+   "price": 2.99,
+   "market": "Kaufland",
+   "amount": 1500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Avocados",
+   "price": 1.99,
+   "market": "Kaufland",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Tafeläpfel",
+   "price": 2.49,
+   "market": "Kaufland",
+   "amount": 2000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Tafeltrauben, hell",
+   "price": 1.99,
+   "market": "Kaufland",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Span. Orangen (Eimer)",
+   "price": 4.99,
+   "market": "Kaufland",
+   "amount": 6750,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Miniromatomaten",
+   "price": 0.99,
+   "market": "Kaufland",
+   "amount": 250,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "K-Purland Schweinerücken",
+   "price": 3.49,
+   "market": "Kaufland",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "K-Purland Kasseler Nacken mit Knochen",
+   "price": 5.49,
+   "market": "Kaufland",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "K-Purland Hackepeter/Schweinemett XXL",
+   "price": 4.99,
+   "market": "Kaufland",
+   "amount": 750,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "K-Purland Schweineschnitzel",
+   "price": 1.99,
+   "market": "Kaufland",
+   "amount": 300,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "K-Purland Schweinefilet",
+   "price": 8.49,
+   "market": "Kaufland",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "K-Purland Puten-Grillies",
+   "price": 2.69,
+   "market": "Kaufland",
+   "amount": 300,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Bio-Suppenhuhn (TK)",
+   "price": 3.99,
+   "market": "Kaufland",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Iglo Gemüse (TK)",
+   "price": 1.99,
+   "market": "Kaufland",
+   "amount": 400,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Schwarzwaldmilch Bioland Vollmilch 3,8 %",
+   "price": 1.69,
+   "market": "Kaufland",
+   "amount": 1000,
+   "unit": "ml",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Weihenstephan Rahmjoghurt",
+   "price": 0.49,
+   "market": "Kaufland",
+   "amount": 150,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Landliebe Landkäse / Quäse Käsescheiben",
+   "price": 1.59,
+   "market": "Kaufland",
+   "amount": 150,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "K-Gold Burrata di Andria",
+   "price": 1.49,
+   "market": "Kaufland",
+   "amount": 125,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "K-Gold Gorgonzola DOP",
+   "price": 2.22,
+   "market": "Kaufland",
+   "amount": 200,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Bürger Maultaschen",
+   "price": 1.69,
+   "market": "Kaufland",
+   "amount": 300,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Baguette Parisienne",
+   "price": 0.99,
+   "market": "Kaufland",
+   "amount": 420,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "K-Classic Kristallzucker",
+   "price": 1.59,
+   "market": "Kaufland",
+   "amount": 2000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Hackfleisch gemischt",
+   "price": 3.49,
+   "market": "Netto Marken-Discount",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Clementinen",
+   "price": 3.49,
+   "market": "Netto Marken-Discount",
+   "amount": 2300,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Rispentomaten",
+   "price": 1.99,
+   "market": "Netto Marken-Discount",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Frischwurst-Aufschnitt",
+   "price": 1.0,
+   "market": "Netto Marken-Discount",
+   "amount": 200,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "iglo Schlemmer Filet",
+   "price": 2.79,
+   "market": "Netto Marken-Discount",
+   "amount": 380,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Südzucker Feiner Rübenzucker 4 x 1 kg",
+   "price": 3.0,
+   "market": "Netto Marken-Discount",
+   "amount": 4000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Rapso Rapsöl 3 x 750 ml",
+   "price": 9.99,
+   "market": "Netto Marken-Discount",
+   "amount": 2250,
+   "unit": "ml",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Kiwi gold",
+   "price": 0.59,
+   "market": "Netto Marken-Discount",
+   "amount": 1,
+   "unit": "Stk",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Brokkoli",
+   "price": 1.29,
+   "market": "Netto Marken-Discount",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Weißkohl",
+   "price": 0.88,
+   "market": "Netto Marken-Discount",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Avocado",
+   "price": 1.49,
+   "market": "Netto Marken-Discount",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Heidelbeeren",
+   "price": 1.79,
+   "market": "Netto Marken-Discount",
+   "amount": 125,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Rosenkohl",
+   "price": 1.29,
+   "market": "Netto Marken-Discount",
+   "amount": 750,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Lauchzwiebeln, Bund",
+   "price": 0.69,
+   "market": "Netto Marken-Discount",
+   "amount": 1,
+   "unit": "Stk",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Champignon braun",
+   "price": 1.79,
+   "market": "Netto Marken-Discount",
+   "amount": 400,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Trauben hell",
+   "price": 2.29,
+   "market": "Netto Marken-Discount",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Orangen",
+   "price": 2.69,
+   "market": "Netto Marken-Discount",
+   "amount": 2000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Eisbergsalat",
+   "price": 0.99,
+   "market": "Netto Marken-Discount",
+   "amount": 1,
+   "unit": "Stk",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Pink Lady Äpfel",
+   "price": 2.69,
+   "market": "Netto Marken-Discount",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Gurken",
+   "price": 0.77,
+   "market": "Netto Marken-Discount",
+   "amount": 1,
+   "unit": "Stk",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Chiquita Limetten",
+   "price": 1.49,
+   "market": "Netto Marken-Discount",
+   "amount": 4,
+   "unit": "Stk",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Pfanni Speisekartoffeln",
+   "price": 2.79,
+   "market": "Netto Marken-Discount",
+   "amount": 2500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Bio Zitronen",
+   "price": 1.19,
+   "market": "Netto Marken-Discount",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Bio Äpfel",
+   "price": 2.49,
+   "market": "Netto Marken-Discount",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Bio Bananen",
+   "price": 1.79,
+   "market": "Netto Marken-Discount",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Bio Mini Romanasalat",
+   "price": 1.69,
+   "market": "Netto Marken-Discount",
+   "amount": 2,
+   "unit": "Stk",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Bio Zwiebeln",
+   "price": 1.79,
+   "market": "Netto Marken-Discount",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Bio-Rote Bete, gekocht",
+   "price": 1.29,
+   "market": "Netto Marken-Discount",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Bio Knoblauch",
+   "price": 1.29,
+   "market": "Netto Marken-Discount",
+   "amount": 150,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Hähnchen-Brustfilet",
+   "price": 5.19,
+   "market": "Netto Marken-Discount",
+   "amount": 600,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Schweine-Minutensteaks",
+   "price": 2.49,
+   "market": "Netto Marken-Discount",
+   "amount": 400,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Bayerisches Puten-Geschnetzeltes",
+   "price": 3.79,
+   "market": "Netto Marken-Discount",
+   "amount": 400,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Schweine-Schälrippen (je kg)",
+   "price": 3.99,
+   "market": "Netto Marken-Discount",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Prager Schinken (je kg)",
+   "price": 5.99,
+   "market": "Netto Marken-Discount",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Wade vom irischen Weiderind (je 100 g)",
+   "price": 1.29,
+   "market": "Netto Marken-Discount",
+   "amount": 100,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Beinscheiben vom Rind",
+   "price": 6.99,
+   "market": "Netto Marken-Discount",
+   "amount": 700,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Schweine-Bauch (je kg)",
+   "price": 4.99,
+   "market": "Netto Marken-Discount",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "XXL Bauchspeck",
+   "price": 6.99,
+   "market": "Netto Marken-Discount",
+   "amount": 700,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Münchner Weißwurst",
+   "price": 2.49,
+   "market": "Netto Marken-Discount",
+   "amount": 300,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Edelsalami",
+   "price": 1.19,
+   "market": "Netto Marken-Discount",
+   "amount": 150,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Wiener Würstchen 2 x 200 g",
+   "price": 2.49,
+   "market": "Netto Marken-Discount",
+   "amount": 400,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Leberkäse 2 x 200 g",
+   "price": 2.99,
+   "market": "Netto Marken-Discount",
+   "amount": 400,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Hähnchenschenkel",
+   "price": 3.33,
+   "market": "Netto Marken-Discount",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Nadler Sahneheringsfilets XXL",
+   "price": 2.99,
+   "market": "Netto Marken-Discount",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Frosta Gemüsepfanne",
+   "price": 2.22,
+   "market": "Netto Marken-Discount",
+   "amount": 480,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Andechser Bio Kefir",
+   "price": 1.29,
+   "market": "Netto Marken-Discount",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Weihenstephan Frische Milch",
+   "price": 1.11,
+   "market": "Netto Marken-Discount",
+   "amount": 1000,
+   "unit": "ml",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Henglein frische Teigwaren",
+   "price": 2.99,
+   "market": "Netto Marken-Discount",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Rama Cremefine",
+   "price": 1.0,
+   "market": "Netto Marken-Discount",
+   "amount": 250,
+   "unit": "ml",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Ben's Original Express-Reis 4 x 220 g",
+   "price": 5.0,
+   "market": "Netto Marken-Discount",
+   "amount": 880,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Italienische Teigwaren XXL 2 x 1 kg",
+   "price": 2.5,
+   "market": "Netto Marken-Discount",
+   "amount": 2000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Parmigiano Reggiano",
+   "price": 3.99,
+   "market": "Netto Marken-Discount",
+   "amount": 150,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Silberlachs geräuchert",
+   "price": 2.99,
+   "market": "Netto Marken-Discount",
+   "amount": 100,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Konditorquark",
+   "price": 1.0,
+   "market": "Netto Marken-Discount",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Walnusskerne",
+   "price": 2.99,
+   "market": "Netto Marken-Discount",
+   "amount": 150,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Beerenmischung (TK)",
+   "price": 2.89,
+   "market": "Netto Marken-Discount",
+   "amount": null,
+   "unit": null,
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Emmi Raclette Scheiben",
+   "price": 2.59,
+   "market": "Netto Marken-Discount",
+   "amount": null,
+   "unit": null,
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
    "quelle": "website"
   }
  ],
