@@ -2707,46 +2707,5 @@
    "bis": "2026-11-28",
    "quelle": "website"
   }
- ],
- "vorschau": {
-  "stand": "2026-11-20T08:12:36+01:00",
-  "woche_ab": "2026-11-23",
-  "quellen": [
-   {
-    "market": "Aldi Süd",
-    "ok": true,
-    "anzahl": 44
-   },
-   {
-    "market": "Penny",
-    "ok": true,
-    "anzahl": 122
-   },
-   {
-    "market": "Rewe",
-    "ok": false,
-    "anzahl": 0
-   },
-   {
-    "market": "Edeka",
-    "ok": false,
-    "anzahl": 0
-   },
-   {
-    "market": "Lidl",
-    "ok": false,
-    "anzahl": 0
-   },
-   {
-    "market": "Netto Marken-Discount",
-    "ok": false,
-    "anzahl": 0
-   },
-   {
-    "market": "Kaufland",
-    "ok": false,
-    "anzahl": 0
-   }
-  ]
- }
+ ]
 }
