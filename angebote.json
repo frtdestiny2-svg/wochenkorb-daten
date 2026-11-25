@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-25T10:00:00+01:00",
+ "stand": "2026-11-25T12:00:00+01:00",
  "quellen": [
   {
    "market": "Aldi Süd",
@@ -7,9 +7,9 @@
    "anzahl": 44
   },
   {
-   "market": "Penny",
+   "market": "Edeka",
    "ok": true,
-   "anzahl": 122
+   "anzahl": 14
   },
   {
    "market": "Kaufland",
@@ -17,27 +17,24 @@
    "anzahl": 27
   },
   {
+   "market": "Lidl",
+   "ok": true,
+   "anzahl": 15
+  },
+  {
    "market": "Netto Marken-Discount",
    "ok": true,
    "anzahl": 57
   },
   {
+   "market": "Penny",
+   "ok": true,
+   "anzahl": 122
+  },
+  {
    "market": "Rewe",
-   "ok": false,
-   "anzahl": 0,
-   "grund": "nicht abgerufen"
-  },
-  {
-   "market": "Edeka",
-   "ok": false,
-   "anzahl": 0,
-   "grund": "nicht abgerufen"
-  },
-  {
-   "market": "Lidl",
-   "ok": false,
-   "anzahl": 0,
-   "grund": "nicht abgerufen"
+   "ok": true,
+   "anzahl": 114
   }
  ],
  "liste": [
@@ -2706,6 +2703,1436 @@
    "von": "2026-11-23",
    "bis": "2026-11-28",
    "quelle": "website"
+  },
+  {
+   "name": "Finesse Hähnchenbrust",
+   "price": 1.39,
+   "market": "Rewe",
+   "amount": 100,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Dr. Oetker Ristorante Pizza Salame",
+   "price": 1.77,
+   "market": "Rewe",
+   "amount": 320,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Kerrygold Original Irische Butter oder Extra",
+   "price": 1.59,
+   "market": "Rewe",
+   "amount": 250,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Bergader Bergbauern Käse mild-nussig oder Proteinkäse mild",
+   "price": 1.69,
+   "market": "Rewe",
+   "amount": 150,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Bio Rucola",
+   "price": 0.88,
+   "market": "Rewe",
+   "amount": 80,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Bananen",
+   "price": 2.29,
+   "market": "Rewe",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Bio Süßkartoffeln",
+   "price": 3.99,
+   "market": "Rewe",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Erdbeeren",
+   "price": 2.79,
+   "market": "Rewe",
+   "amount": 250,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Suppengrün",
+   "price": 1.59,
+   "market": "Rewe",
+   "amount": 800,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Bio Mini Cherry Rispentomaten",
+   "price": 2.69,
+   "market": "Rewe",
+   "amount": 200,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Staudensellerie",
+   "price": 0.99,
+   "market": "Rewe",
+   "amount": 1,
+   "unit": "Stk",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Schelter Speisekartoffeln",
+   "price": 1.99,
+   "market": "Rewe",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Grapefruit",
+   "price": 0.59,
+   "market": "Rewe",
+   "amount": 1,
+   "unit": "Stk",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Blumenkohl",
+   "price": 1.99,
+   "market": "Rewe",
+   "amount": 1,
+   "unit": "Stk",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Kaki",
+   "price": 2.49,
+   "market": "Rewe",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Honigmelone",
+   "price": 1.49,
+   "market": "Rewe",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Salatgurke",
+   "price": 0.75,
+   "market": "Rewe",
+   "amount": 1,
+   "unit": "Stk",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Bio Speisemöhren",
+   "price": 1.29,
+   "market": "Rewe",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Eisbergsalat",
+   "price": 0.75,
+   "market": "Rewe",
+   "amount": 1,
+   "unit": "Stk",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Milram Burlander Schnittkäse",
+   "price": 1.11,
+   "market": "Rewe",
+   "amount": 100,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Frico Gouda jung",
+   "price": 0.89,
+   "market": "Rewe",
+   "amount": 100,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Bergader Watzmann Bergkäse",
+   "price": 1.49,
+   "market": "Rewe",
+   "amount": 100,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Kerrygold Cheddar herzhaft",
+   "price": 1.29,
+   "market": "Rewe",
+   "amount": 100,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Exquisa Der Sahnige Frischkäse",
+   "price": 1.11,
+   "market": "Rewe",
+   "amount": 200,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Gervais Hüttenkäse",
+   "price": 1.19,
+   "market": "Rewe",
+   "amount": 200,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Milram Gewürzquark",
+   "price": 0.99,
+   "market": "Rewe",
+   "amount": 185,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Arla Finello Reibekäse",
+   "price": 1.49,
+   "market": "Rewe",
+   "amount": 150,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Ehrmann Almighurt",
+   "price": 0.44,
+   "market": "Rewe",
+   "amount": 150,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Hochland Sandwich Scheiben Gouda",
+   "price": 1.79,
+   "market": "Rewe",
+   "amount": 150,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Weihenstephan Naturjoghurt mild",
+   "price": 0.89,
+   "market": "Rewe",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Wiesenhof Geflügel Mortadella",
+   "price": 1.19,
+   "market": "Rewe",
+   "amount": 100,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Rügenwalder Mühle Vegane Mühlenfrikadellen oder Vegetarische Mühlenwürstchen",
+   "price": 2.49,
+   "market": "Rewe",
+   "amount": 165,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Krone Schottischer Räucherlachs",
+   "price": 3.59,
+   "market": "Rewe",
+   "amount": 100,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Gutfried Geflügel-Fleischwurst",
+   "price": 2.59,
+   "market": "Rewe",
+   "amount": 400,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Zott Zottarella Mozzarella",
+   "price": 1.99,
+   "market": "Rewe",
+   "amount": 200,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Nadler Sahne Heringsfilets",
+   "price": 2.49,
+   "market": "Rewe",
+   "amount": 380,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Rama zum Streichen, Backen & Kochen",
+   "price": 1.29,
+   "market": "Rewe",
+   "amount": 400,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Emmi Raclette Scheiben Classic",
+   "price": 2.49,
+   "market": "Rewe",
+   "amount": 200,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Weihenstephan Rahmjoghurt",
+   "price": 0.49,
+   "market": "Rewe",
+   "amount": 150,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Müller Milchreis",
+   "price": 0.49,
+   "market": "Rewe",
+   "amount": 200,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Valess Gouda Schnitzel",
+   "price": 2.49,
+   "market": "Rewe",
+   "amount": 180,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Greenforce Cevapcici oder Bifteki vegan",
+   "price": 2.49,
+   "market": "Rewe",
+   "amount": 180,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Deutsche See Lachsfilet",
+   "price": 5.19,
+   "market": "Rewe",
+   "amount": 250,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Ehrmann High Protein Skyr",
+   "price": 1.49,
+   "market": "Rewe",
+   "amount": 450,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Tante Fanny Frischer Dinkel Pizzateig",
+   "price": 1.99,
+   "market": "Rewe",
+   "amount": 400,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Müller Reine Buttermilch",
+   "price": 0.59,
+   "market": "Rewe",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Alpro Mandeldrink Ungesüßt oder Barista Kokos",
+   "price": 1.99,
+   "market": "Rewe",
+   "amount": 1000,
+   "unit": "ml",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Citterio Salami Milano",
+   "price": 4.49,
+   "market": "Rewe",
+   "amount": 250,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Rama Culinesse",
+   "price": 1.49,
+   "market": "Rewe",
+   "amount": 450,
+   "unit": "ml",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Berief Bio Haferdrink",
+   "price": 1.49,
+   "market": "Rewe",
+   "amount": 1000,
+   "unit": "ml",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Gutfried Veggie Fleischwurst",
+   "price": 2.49,
+   "market": "Rewe",
+   "amount": 200,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Wilhelm Brandenburg Wiener Würstchen",
+   "price": 0.88,
+   "market": "Rewe",
+   "amount": 100,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "REWE Feine Welt Frisches Maishähnchen",
+   "price": 7.99,
+   "market": "Rewe",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Mirée Französische Kräuter",
+   "price": 1.11,
+   "market": "Rewe",
+   "amount": 150,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Abraham Rohschinken Leichter Genuss",
+   "price": 1.79,
+   "market": "Rewe",
+   "amount": 100,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Schiller Wacholder-Schinken",
+   "price": 1.49,
+   "market": "Rewe",
+   "amount": 100,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Nadler Edle Matjesfilets",
+   "price": 2.49,
+   "market": "Rewe",
+   "amount": 300,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "El Pozo Chorizo extra pikante",
+   "price": 1.59,
+   "market": "Rewe",
+   "amount": 100,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Gutfried Hähnchen-Fleischwurst",
+   "price": 2.59,
+   "market": "Rewe",
+   "amount": 350,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Berger Zitronen-Pfeffer- oder Römer-Schinken",
+   "price": 1.79,
+   "market": "Rewe",
+   "amount": 100,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "REWE Feine Welt Schweizer Urkraft Hartkäse",
+   "price": 2.99,
+   "market": "Rewe",
+   "amount": 150,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Schiller Strohschwein Lyoner",
+   "price": 1.11,
+   "market": "Rewe",
+   "amount": 100,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Wilhelm Brandenburg Delikatess Bacon",
+   "price": 1.49,
+   "market": "Rewe",
+   "amount": 100,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "REWE Beste Wahl Stremellachs",
+   "price": 2.59,
+   "market": "Rewe",
+   "amount": 125,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "REWE Beste Wahl Schlagsahne",
+   "price": 0.79,
+   "market": "Rewe",
+   "amount": 200,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Frisches Puten-Hackfleisch",
+   "price": 2.49,
+   "market": "Rewe",
+   "amount": 300,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Chateau Boeuf Rindersauerbraten",
+   "price": 19.9,
+   "market": "Rewe",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Hähnchen Schnitte Cordon bleu",
+   "price": 6.49,
+   "market": "Rewe",
+   "amount": 750,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "REWE Bio Frische Hähnchen-Schenkel",
+   "price": 10.49,
+   "market": "Rewe",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Rinder-Hackfleisch",
+   "price": 1.59,
+   "market": "Rewe",
+   "amount": 100,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Spanferkel-Cevapcici",
+   "price": 2.99,
+   "market": "Rewe",
+   "amount": 300,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Hähnchen Chicken Nuggets oder Chicken Tenders",
+   "price": 5.99,
+   "market": "Rewe",
+   "amount": 380,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Kasseler Nacken",
+   "price": 8.49,
+   "market": "Rewe",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "REWE Regional Frisches Puten-Innenfilet",
+   "price": 4.99,
+   "market": "Rewe",
+   "amount": 400,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "REWE Feine Welt Mais-Hähnchenschenkel",
+   "price": 6.99,
+   "market": "Rewe",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "REWE Feine Welt Medaglioni Burrata",
+   "price": 2.79,
+   "market": "Rewe",
+   "amount": 200,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Meica Kohlkönig",
+   "price": 2.49,
+   "market": "Rewe",
+   "amount": 400,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Burgis Sonntagsknödel",
+   "price": 1.79,
+   "market": "Rewe",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Homann Fleischsalat",
+   "price": 1.49,
+   "market": "Rewe",
+   "amount": 200,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Meica Volle Kelle Lauch-Käse-Eintopf",
+   "price": 2.49,
+   "market": "Rewe",
+   "amount": 450,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "REWE Beste Wahl Salat Winter Edition",
+   "price": 0.99,
+   "market": "Rewe",
+   "amount": 120,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Weisskohl geschnitten",
+   "price": 0.99,
+   "market": "Rewe",
+   "amount": 300,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "McCain Golden Longs Pommes",
+   "price": 2.99,
+   "market": "Rewe",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Dr. Oetker La Mia Grande Salame Piccante",
+   "price": 3.29,
+   "market": "Rewe",
+   "amount": 380,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Iglo Gemüse-Ideen Schwedische Art",
+   "price": 2.39,
+   "market": "Rewe",
+   "amount": 400,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "McCain 1-2-3 Frites Original",
+   "price": 2.99,
+   "market": "Rewe",
+   "amount": 1500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Iglo Rahm-Königsgemüse",
+   "price": 2.39,
+   "market": "Rewe",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "REWE Beste Wahl Sauerkirschen TK",
+   "price": 2.29,
+   "market": "Rewe",
+   "amount": 300,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "REWE Beste Wahl Himbeeren TK",
+   "price": 3.99,
+   "market": "Rewe",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "REWE Beste Wahl Blätterteig",
+   "price": 1.19,
+   "market": "Rewe",
+   "amount": 450,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Dr. Oetker La Mia Familia Vier Käse",
+   "price": 3.29,
+   "market": "Rewe",
+   "amount": 480,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Zitronen",
+   "price": 0.99,
+   "market": "Rewe",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Gelbe Speisezwiebeln",
+   "price": 1.99,
+   "market": "Rewe",
+   "amount": 2000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Weiße Champignons",
+   "price": 1.99,
+   "market": "Rewe",
+   "amount": 400,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Clementinen",
+   "price": 1.89,
+   "market": "Rewe",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Rote Tafeläpfel",
+   "price": 1.69,
+   "market": "Rewe",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Orangen",
+   "price": 2.99,
+   "market": "Rewe",
+   "amount": 2000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "3 Glocken Genuss Pur Pasta",
+   "price": 0.99,
+   "market": "Rewe",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Erasco Eintopf",
+   "price": 1.99,
+   "market": "Rewe",
+   "amount": 800,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Jürgen Langbein Geflügel- oder Rinder-Fond",
+   "price": 1.99,
+   "market": "Rewe",
+   "amount": 500,
+   "unit": "ml",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Thomy Reines Sonnenblumenöl",
+   "price": 2.22,
+   "market": "Rewe",
+   "amount": 750,
+   "unit": "ml",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Rosenmehl Weizenmehl Type 405",
+   "price": 2.29,
+   "market": "Rewe",
+   "amount": 2500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Maggi Ravioli in Tomatensauce",
+   "price": 1.99,
+   "market": "Rewe",
+   "amount": 800,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Bertolli Olivenöl",
+   "price": 3.99,
+   "market": "Rewe",
+   "amount": 750,
+   "unit": "ml",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Mondamin Soßenbinder",
+   "price": 1.29,
+   "market": "Rewe",
+   "amount": 250,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Saupiquet Thunfisch",
+   "price": 2.49,
+   "market": "Rewe",
+   "amount": 140,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Mutti Pastasauce mit Basilikum",
+   "price": 2.49,
+   "market": "Rewe",
+   "amount": 400,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Müller’s Mühle Tellerlinsen",
+   "price": 1.29,
+   "market": "Rewe",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Heinz Beanz",
+   "price": 1.99,
+   "market": "Rewe",
+   "amount": 415,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Reis-fit Spitzen-Langkornreis",
+   "price": 1.29,
+   "market": "Rewe",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Mondamin Feine Speisestärke",
+   "price": 1.19,
+   "market": "Rewe",
+   "amount": 400,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Mutti Pesto Rosso",
+   "price": 2.49,
+   "market": "Rewe",
+   "amount": 180,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "REWE Beste Wahl Mandeln",
+   "price": 1.29,
+   "market": "Rewe",
+   "amount": 100,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "REWE Feine Welt Lesvos Natives Olivenöl",
+   "price": 6.99,
+   "market": "Rewe",
+   "amount": 500,
+   "unit": "ml",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Speisekartoffeln",
+   "price": 1.99,
+   "market": "Edeka",
+   "amount": 2500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Leerdammer Scheiben oder Reibekäse",
+   "price": 1.49,
+   "market": "Edeka",
+   "amount": 160,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Kühne Rotkohl",
+   "price": 1.11,
+   "market": "Edeka",
+   "amount": 680,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Mandarinen",
+   "price": 1.99,
+   "market": "Edeka",
+   "amount": 750,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Tafeltrauben hell oder rot",
+   "price": 3.99,
+   "market": "Edeka",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Bananen",
+   "price": 1.49,
+   "market": "Edeka",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Rispentomaten",
+   "price": 1.99,
+   "market": "Edeka",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Paprika rot",
+   "price": 1.99,
+   "market": "Edeka",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Margarine",
+   "price": 0.99,
+   "market": "Edeka",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Walnusskerne",
+   "price": 1.99,
+   "market": "Edeka",
+   "amount": 200,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "iglo Fischstäbchen",
+   "price": 2.79,
+   "market": "Edeka",
+   "amount": 450,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Kohlrabi",
+   "price": 0.55,
+   "market": "Edeka",
+   "amount": 1,
+   "unit": "Stk",
+   "von": "2026-11-26",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Kerrygold Original Irische Butter",
+   "price": 1.49,
+   "market": "Edeka",
+   "amount": 250,
+   "unit": "g",
+   "von": "2026-11-26",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "FRoSTA Pfannengericht",
+   "price": 2.29,
+   "market": "Edeka",
+   "amount": 500,
+   "unit": "g",
+   "von": "2026-11-26",
+   "bis": "2026-11-28",
+   "quelle": "website"
+  },
+  {
+   "name": "Dunkle Pflaumen",
+   "price": 1.95,
+   "market": "Lidl",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "prospekt"
+  },
+  {
+   "name": "Feldsalat",
+   "price": 1.19,
+   "market": "Lidl",
+   "amount": 150,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "prospekt"
+  },
+  {
+   "name": "Mandarinen/Clementinen",
+   "price": 1.29,
+   "market": "Lidl",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "prospekt"
+  },
+  {
+   "name": "Kiwi rot",
+   "price": 2.49,
+   "market": "Lidl",
+   "amount": 4,
+   "unit": "Stk",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "prospekt"
+  },
+  {
+   "name": "Romana Salat",
+   "price": 1.29,
+   "market": "Lidl",
+   "amount": 1,
+   "unit": "Stk",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "prospekt"
+  },
+  {
+   "name": "Zucchini lose",
+   "price": 1.39,
+   "market": "Lidl",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "prospekt"
+  },
+  {
+   "name": "Bio Gurken",
+   "price": 0.89,
+   "market": "Lidl",
+   "amount": 1,
+   "unit": "Stk",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "prospekt"
+  },
+  {
+   "name": "Avocado",
+   "price": 0.77,
+   "market": "Lidl",
+   "amount": 1,
+   "unit": "Stk",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "prospekt"
+  },
+  {
+   "name": "Deutscher Spitzkohl",
+   "price": 0.99,
+   "market": "Lidl",
+   "amount": 1000,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "prospekt"
+  },
+  {
+   "name": "Milbona Deutsche Markenbutter",
+   "price": 0.99,
+   "market": "Lidl",
+   "amount": 250,
+   "unit": "g",
+   "von": "2026-11-25",
+   "bis": "2026-11-28",
+   "quelle": "prospekt"
+  },
+  {
+   "name": "Fischerstolz White Tiger Garnelen",
+   "price": 5.49,
+   "market": "Lidl",
+   "amount": 400,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "prospekt"
+  },
+  {
+   "name": "Metzgerfrisch Hackfleisch gemischt",
+   "price": 4.99,
+   "market": "Lidl",
+   "amount": 800,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "prospekt"
+  },
+  {
+   "name": "Metzgerfrisch Hähnchen-Innenfilet",
+   "price": 6.99,
+   "market": "Lidl",
+   "amount": 800,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "prospekt"
+  },
+  {
+   "name": "Metzgerfrisch Hähnchenschenkel",
+   "price": 8.49,
+   "market": "Lidl",
+   "amount": 2500,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "prospekt"
+  },
+  {
+   "name": "Metzgerfrisch Hähnchen-Geschnetzeltes",
+   "price": 3.79,
+   "market": "Lidl",
+   "amount": 400,
+   "unit": "g",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "quelle": "prospekt"
   }
  ]
 }
